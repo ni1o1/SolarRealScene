@@ -1,0 +1,22 @@
+{
+  "asset": {
+    "version": "1.0",
+    "generator": "Solar Insolation 3DTiles Generator"
+  },
+  "geometricError": 10000.0,
+  "root": {
+    "boundingVolume": {
+      "sphere": [
+        -1209091.2536795135,
+        2692919.966676451,
+        1202820.2821831256,
+        3187711.95226241
+      ]
+    },
+    "geometricError": 1000.0,
+    "refine": "REPLACE",
+    "content": {
+      "uri": "solar_insolation.glb"
+    }
+  }
+}
