@@ -1,6 +1,10 @@
-# Cesium 3D Tiles 实景三维可视化系统
+# Solar RealScene
 
-基于 React 18.2.0 + Cesium + Vite 构建的实景三维数据可视化平台，专门用于加载和分析 3D Tiles 格式的实景三维数据。
+基于 React 18.2.0 + Cesium + Vite 构建
+
+## 项目链接
+
+[Solar RealScene](https://ni1o1.github.io/SolarRealScene/)
 
 ## 功能特性
 
