@@ -1,22 +1,30 @@
 {
   "asset": {
-    "version": "1.0",
-    "generator": "Solar Insolation 3DTiles Generator"
+      "version": "1.1",
+      "generator": "ni1o1.github.io"
   },
   "geometricError": 10000.0,
   "root": {
-    "boundingVolume": {
-      "sphere": [
-        -1209091.2536795135,
-        2692919.966676451,
-        1202820.2821831256,
-        3187711.95226241
-      ]
-    },
-    "geometricError": 1000.0,
-    "refine": "REPLACE",
-    "content": {
-      "uri": "solar_insolation.glb"
-    }
+      "boundingVolume": {
+          "box": [
+              -2418178.865778842,
+              5385840.872022047,
+              2405633.976698082,
+              267.13464177027345,
+              0.0,
+              0.0,
+              0.0,
+              199.5815987130627,
+              0.0,
+              0.0,
+              0.0,
+              230.81215870939195
+          ]
+      },
+      "geometricError": 0,
+      "refine": "REPLACE",
+      "content": {
+           "uri": "solar_insolation.glb"
+      }
   }
 }

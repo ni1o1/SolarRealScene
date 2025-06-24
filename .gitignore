@@ -8,3 +8,4 @@
 
 # 保留.gitignore文件本身
 !.gitignore
+.DS_Store
