@@ -1,0 +1,30 @@
+{
+  "asset": {
+      "version": "1.1",
+      "generator": "ni1o1.github.io"
+  },
+  "geometricError": 10000.0,
+  "root": {
+      "boundingVolume": {
+          "box": [
+              -2418178.865778842,
+              5385840.872022047,
+              2405633.976698082,
+              267.13464177027345,
+              0.0,
+              0.0,
+              0.0,
+              199.5815987130627,
+              0.0,
+              0.0,
+              0.0,
+              230.81215870939195
+          ]
+      },
+      "geometricError": 0,
+      "refine": "REPLACE",
+      "content": {
+           "uri": "flattend_model_poa_vmin_14385_40503.glb"
+      }
+  }
+}
