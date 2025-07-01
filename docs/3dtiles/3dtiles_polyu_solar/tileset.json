@@ -24,7 +24,7 @@
       "geometricError": 0,
       "refine": "REPLACE",
       "content": {
-           "uri": "solar_insolation.glb"
+           "uri": "flattend_model_solar_hours.glb"
       }
   }
 }
